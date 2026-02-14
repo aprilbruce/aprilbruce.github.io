@@ -15,5 +15,5 @@ I am a Business Systems Analyst and Process Engineer specializing in healthcare 
 ---
 
 ## Contact
-LinkedIn: https://linkedin.com/in/april-a-bruce  
-Email: april.bruce55@gmail.com
+[LinkedIn](https://linkedin.com/in/april-a-bruce)  
+[Email](mailto:april.bruce55@gmail.com)
