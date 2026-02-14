@@ -1,5 +1,8 @@
 *Business Systems Analysis & Process Engineering • UML • Risk & Delivery Optimization*
-![April Bruce](headshot.jpg)
+
+<p align="center">
+  <img src="headshot.jpg" width="200">
+</p>
 ---
 
 ## About Me
