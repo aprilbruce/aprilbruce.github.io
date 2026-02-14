@@ -1,4 +1,10 @@
-*Business Systems Analysis & Process Engineering • UML • Risk & Delivery Optimization*
+<p align="center">
+  <em>Business Systems Analysis & Process Engineering • UML • Risk & Delivery Optimization</em>
+</p>
+
+<p align="center">
+  <img src="headshot.jpg" width="200">
+</p>
 
 <p align="center">
   <img src="headshot.jpg" width="200">
