@@ -10,10 +10,7 @@ I am a Business Systems Analyst and Process Engineer specializing in healthcare 
 ---
 
 ## Portfolio
-- UML & Workflow Diagrams
-- Customer Personas
-- Journey Mapping
-- Dashboards & KPI Insights
+[View Portfolio](portfolio)
 
 ---
 
