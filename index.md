@@ -1,5 +1,3 @@
-# April Bruce
-
 *Business Systems Analysis & Process Engineering • UML • Risk & Delivery Optimization*
 
 ---
