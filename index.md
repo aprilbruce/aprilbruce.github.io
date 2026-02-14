@@ -6,9 +6,6 @@
   <img src="headshot.jpg" width="200">
 </p>
 
-<p align="center">
-  <img src="headshot.jpg" width="200">
-</p>
 ---
 
 ## About Me
