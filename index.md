@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="profile_under_1MB.jpg" width="180" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <img src="./headshot.jpg" width="180" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
 
 ---
