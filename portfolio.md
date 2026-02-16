@@ -37,3 +37,11 @@ Process and experience mapping artifacts used to identify pain points, dependenc
 
 ## Dashboards & KPI Insights
 Sales and performance dashboards in development. Upcoming examples will demonstrate KPI tracking, trend analysis, and executive-level reporting using Power BI and Access.
+
+Sales and performance dashboards demonstrating KPI tracking, trend analysis, and executive-level reporting using Power BI.
+
+### Power BI Dashboard – IT Help Desk Ticket Analysis
+
+![Dashboard Screenshot](Screenshot%202026-02-15%20234259.png)
+
+![Dashboard Screenshot](Screenshot%202026-02-15%20234403.png)
