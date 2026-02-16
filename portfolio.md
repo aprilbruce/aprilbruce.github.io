@@ -12,6 +12,7 @@ Sanitized samples demonstrating use case, activity, and sequence modeling to ali
 ### Process Scoping & Stakeholder Alignment (SIPOC)
 This SIPOC diagram outlines the end-to-end flow for a new client implementation and enrollment activation. It identifies upstream suppliers, required inputs, core process steps, expected outputs, and impacted customers. Artifacts like this are used to align cross-functional teams, reduce ambiguity, and establish shared understanding before detailed solution design or delivery planning begins.
 
+Click any image to view full size.
 [![SIPOC Diagram](assets/SIPOC.png)](assets/SIPOC.png)
 
 ### Future-State Client Implementation Process Map
