@@ -25,19 +25,17 @@ Vendor-neutral client implementation use case diagram demonstrating conditional 
 [![Use Case Diagram](assets/Client%20Implementation%20Use%20Case%20Diagram.png)](assets/Client%20Implementation%20Use%20Case%20Diagram.png)
 
 ## Customer Personas
-Examples of user persona development to support requirement clarity and user-centered design decisions.
+Examples of user persona development to support requirement clarity and user-centered design decisions in process.
 
 ---
 
 ## Journey Mapping
-Process and experience mapping artifacts used to identify pain points, dependencies, and improvement opportunities.
+Process and experience mapping artifacts used to identify pain points, dependencies, and improvement opportunities in process.
 
 ---
 
 ## Dashboards & KPI Insights
-Sales and performance dashboards in development. Upcoming examples will demonstrate KPI tracking, trend analysis, and executive-level reporting using Power BI and Access.
-
-Sales and performance dashboards demonstrating KPI tracking, trend analysis, and executive-level reporting using Power BI.
+Power BI dashboards designed to deliver KPI-driven insights into IT Help Desk operations, including ticket volume, priority distribution, resolution time, root-cause trends, and customer satisfaction. These visuals enable rapid drill-down analysis to identify bottlenecks, performance gaps, and opportunities for continuous process improvement.
 
 ### Power BI Dashboard – IT Help Desk Ticket Analysis
 
