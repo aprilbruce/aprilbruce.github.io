@@ -9,6 +9,20 @@ Welcome to my portfolio. Below are representative samples of my work in process 
 ## Workflow & UML Diagrams
 Sanitized samples demonstrating use case, activity, and sequence modeling to align business and technical teams.
 
+### Process Scoping & Stakeholder Alignment (SIPOC)
+This SIPOC diagram outlines the end-to-end flow for a new client implementation and enrollment activation. It identifies upstream suppliers, required inputs, core process steps, expected outputs, and impacted customers. Artifacts like this are used to align cross-functional teams, reduce ambiguity, and establish shared understanding before detailed solution design or delivery planning begins.
+
+![SIPOC Diagram](SIPOC.png)
+
+### Future-State Client Implementation Process Map
+Future-state cross-functional business process map illustrating client implementation workflow, data transfer decision logic, and swim-lane ownership from sales agreement through system activation.
+
+![Process Map](Client%20Implementation%20Process%20Flow%20Diagram.png)
+
+### Use Case Diagram
+Vendor-neutral client implementation use case diagram demonstrating conditional data integration paths (API, file, and manual upload) and downstream operational notification flows.
+
+![Use Case Diagram](Client%20Implementation%20Use%20Case%20Diagram.png)
 ---
 
 ## Customer Personas
