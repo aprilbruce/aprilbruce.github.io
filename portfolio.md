@@ -12,17 +12,29 @@ Sanitized samples demonstrating use case, activity, and sequence modeling to ali
 ### Process Scoping & Stakeholder Alignment (SIPOC)
 This SIPOC diagram outlines the end-to-end flow for a new client implementation and enrollment activation. It identifies upstream suppliers, required inputs, core process steps, expected outputs, and impacted customers. Artifacts like this are used to align cross-functional teams, reduce ambiguity, and establish shared understanding before detailed solution design or delivery planning begins.
 
-<img src="SIPOC.png" alt="SIPOC Diagram" width="800">
+<a href="SIPOC.png" target="_blank">
+  <img src="SIPOC.png"
+       alt="SIPOC Diagram"
+       width="750">
+</a>
 
 ### Future-State Client Implementation Process Map
 Future-state cross-functional business process map illustrating client implementation workflow, data transfer decision logic, and swim-lane ownership from sales agreement through system activation.
 
-<img src="Client%20Implementation%20Process%20Flow%20Diagram.png" alt="Process Map" width="800">
+<a href="Client%20Implementation%20Process%20Flow%20Diagram.png" target="_blank">
+  <img src="Client%20Implementation%20Process%20Flow%20Diagram.png"
+       alt="Process Map"
+       width="750">
+</a>
 
 ### Use Case Diagram
 Vendor-neutral client implementation use case diagram demonstrating conditional data integration paths (API, file, and manual upload) and downstream operational notification flows.
 
-<img src="Client%20Implementation%20Use%20Case%20Diagram.png" alt="Use Case Diagram" width="800">
+<a href="Client%20Implementation%20Use%20Case%20Diagram.png" target="_blank">
+  <img src="Client%20Implementation%20Use%20Case%20Diagram.png"
+       alt="Use Case Diagram"
+       width="750">
+</a>
 ---
 
 ## Customer Personas
