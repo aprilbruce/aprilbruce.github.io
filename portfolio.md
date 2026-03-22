@@ -26,16 +26,6 @@ Vendor-neutral client implementation use case diagram demonstrating conditional 
 
 <img src="assets/Client Implementation Use Case Diagram.png" width="450">
 
-## Customer Personas
-Examples of user persona development to support requirement clarity and user-centered design decisions in process.
-
----
-
-## Journey Mapping
-Process and experience mapping artifacts used to identify pain points, dependencies, and improvement opportunities in process.
-
----
-
 ### KPI Dashboard – Operational Insights
 Dashboard used to visualize performance trends, identify operational gaps, and support data-driven decision-making across business teams.
 
