@@ -9,21 +9,22 @@ Welcome to my portfolio. Below are representative samples of my work in process 
 ## Workflow & UML Diagrams
 Representative examples of workflow, use case, and sequence modeling used to align business and technical teams and support solution design.
 
-### Process Scoping & Stakeholder Alignment (SIPOC)
+### Stakeholder Alignment & Process Scoping (SIPOC)
 This SIPOC diagram illustrates the end-to-end flow for client implementation and enrollment activation, identifying key inputs, outputs, and stakeholders. Artifacts like this support cross-functional alignment, reduce ambiguity, and establish shared understanding before detailed solution design and delivery.
 
 
 <img src="assets/SIPOC.png" width="450">
 
+
 ### Future-State Client Implementation Process Map
 Future-state cross-functional business process map illustrating client implementation workflow, data transfer decision logic, and swim-lane ownership from sales agreement through system activation.
 
-[![Process Map](assets/Client%20Implementation%20Process%20Flow%20Diagram.png)](assets/Client%20Implementation%20Process%20Flow%20Diagram.png)
+<img src="assets/Client Implementation Process Flow Diagram.png" width="450">
 
 ### Use Case Diagram
 Vendor-neutral client implementation use case diagram demonstrating conditional data integration paths (API, file, and manual upload) and downstream operational notification flows.
 
-[![Use Case Diagram](assets/Client%20Implementation%20Use%20Case%20Diagram.png)](assets/Client%20Implementation%20Use%20Case%20Diagram.png)
+<img src="assets/Client Implementation Use Case Diagram.png" width="450">
 
 ## Customer Personas
 Examples of user persona development to support requirement clarity and user-centered design decisions in process.
@@ -40,6 +41,6 @@ Power BI dashboards designed to deliver KPI-driven insights into IT Help Desk op
 
 ### Power BI Dashboard – IT Help Desk Ticket Analysis
 
-[![Dashboard](assets/Screenshot%202026-02-15%20234259.png)](assets/Screenshot%202026-02-15%20234259.png)
+<img src="assets/Screenshot%202026-02-15%20234259.png" width="450">
 
-[![Dashboard](assets/Screenshot%202026-02-15%20234403.png)](assets/Screenshot%202026-02-15%20234403.png)
+<img src="assets/Screenshot%202026-02-15%20234403.png" width="450">
