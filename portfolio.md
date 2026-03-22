@@ -7,7 +7,7 @@ Welcome to my portfolio. Below are representative samples of my work in process 
 ---
 
 ## Workflow & UML Diagrams
-Sanitized samples demonstrating use case, activity, and sequence modeling to align business and technical teams.
+Representative examples of workflow, use case, and sequence modeling used to align business and technical teams and support solution design.
 
 ### Process Scoping & Stakeholder Alignment (SIPOC)
 This SIPOC diagram outlines the end-to-end flow for a new client implementation and enrollment activation. It identifies upstream suppliers, required inputs, core process steps, expected outputs, and impacted customers. Artifacts like this are used to align cross-functional teams, reduce ambiguity, and establish shared understanding before detailed solution design or delivery planning begins.
