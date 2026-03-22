@@ -10,10 +10,10 @@ Welcome to my portfolio. Below are representative samples of my work in process 
 Representative examples of workflow, use case, and sequence modeling used to align business and technical teams and support solution design.
 
 ### Process Scoping & Stakeholder Alignment (SIPOC)
-This SIPOC diagram outlines the end-to-end flow for a new client implementation and enrollment activation. It identifies upstream suppliers, required inputs, core process steps, expected outputs, and impacted customers. Artifacts like this are used to align cross-functional teams, reduce ambiguity, and establish shared understanding before detailed solution design or delivery planning begins.
+This SIPOC diagram illustrates the end-to-end flow for client implementation and enrollment activation, identifying key inputs, outputs, and stakeholders. Artifacts like this support cross-functional alignment, reduce ambiguity, and establish shared understanding before detailed solution design and delivery.
 
 
-<img src="assets/SIPOC.png" width="500">
+<img src="assets/SIPOC.png" width="450">
 
 ### Future-State Client Implementation Process Map
 Future-state cross-functional business process map illustrating client implementation workflow, data transfer decision logic, and swim-lane ownership from sales agreement through system activation.
