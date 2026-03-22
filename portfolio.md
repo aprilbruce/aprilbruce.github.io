@@ -36,11 +36,13 @@ Process and experience mapping artifacts used to identify pain points, dependenc
 
 ---
 
-## Dashboards & KPI Insights
-Power BI dashboards designed to deliver KPI-driven insights into IT Help Desk operations, including ticket volume, priority distribution, resolution time, root-cause trends, and customer satisfaction. These visuals enable rapid drill-down analysis to identify bottlenecks, performance gaps, and opportunities for continuous process improvement.
+### KPI Dashboard – Operational Insights
+Dashboard used to visualize performance trends, identify operational gaps, and support data-driven decision-making across business teams.
 
-### Power BI Dashboard – IT Help Desk Ticket Analysis
+### Operational Insights – IT Help Desk Ticket Analysis
 
 <img src="assets/Screenshot%202026-02-15%20234259.png" width="450">
+
+
 
 <img src="assets/Screenshot%202026-02-15%20234403.png" width="450">
