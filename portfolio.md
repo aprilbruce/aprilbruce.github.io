@@ -16,7 +16,7 @@ Artifacts focused on preparing teams for change, aligning stakeholders, and supp
 
 ### Stakeholder Persona – Client Implementation Specialist
 
-<img src="assets/persona.png" width="450">
+<img src="assets/persona.png.png" width="450">
 
 ---
 
