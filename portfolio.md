@@ -12,11 +12,11 @@ Artifacts focused on preparing teams for change, aligning stakeholders, and supp
 
 ### Change Impact Summary – Data Integration & File Intake Updates
 
-<img src="assets/change-impact.png.png" width="450">
+<img src="/assets/change-impact.png.png" width="450">
 
 ### Stakeholder Persona – Client Implementation Specialist
 
-<img src="assets/persona.png.png" width="450">
+<img src="/assets/persona.png.png" width="450">
 
 ---
 
