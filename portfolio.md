@@ -13,7 +13,7 @@ Sanitized samples demonstrating use case, activity, and sequence modeling to ali
 This SIPOC diagram outlines the end-to-end flow for a new client implementation and enrollment activation. It identifies upstream suppliers, required inputs, core process steps, expected outputs, and impacted customers. Artifacts like this are used to align cross-functional teams, reduce ambiguity, and establish shared understanding before detailed solution design or delivery planning begins.
 
 Click any image to view full size.
-[![SIPOC Diagram](assets/SIPOC.png)](assets/SIPOC.png)
+<img src="assets/SIPOC.png" width="500">
 
 ### Future-State Client Implementation Process Map
 Future-state cross-functional business process map illustrating client implementation workflow, data transfer decision logic, and swim-lane ownership from sales agreement through system activation.
