@@ -68,7 +68,11 @@ _Click image to view full size_
 
 Artifacts used to analyze performance trends, identify operational gaps, and support data-driven decision-making.
 
-### KPI Dashboard – Operational Insights
+These dashboards represent different analytical perspectives on the same operational dataset, highlighting both performance trends and underlying issue patterns to support decision-making and continuous improvement.
+
+---
+
+### KPI Dashboard – Volume & Trend Analysis
 
 *Click image to view full size*
 
@@ -76,7 +80,9 @@ Artifacts used to analyze performance trends, identify operational gaps, and sup
   <img src="/assets/Screenshot%202026-02-15%20234259.png" width="500">
 </a>
 
-### Operational Insights – IT Help Desk Ticket Analysis
+---
+
+### Operational Insights – Root Cause & Issue Patterns
 
 *Click image to view full size*
 
