@@ -1,7 +1,7 @@
 <p align="center">
   <em>
     Change Management | Business Readiness | Agile Delivery<br>
-    Helping business and technology teams navigate change through stakeholder alignment, process clarity, and adoption support
+    Helping business and technology teams navigate change through stakeholder alignment, process clarity, and adoption
   </em>
 </p>
 
