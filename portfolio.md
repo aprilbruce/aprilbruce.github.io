@@ -2,7 +2,7 @@
 
 # Portfolio
 
-Welcome to my portfolio. Below are representative examples of my work in change management, business analysis, and delivery optimization.
+Welcome to my portfolio. These examples highlight how I support change management, align stakeholders, and translate system updates into clear, actionable business impact.
 
 ---
 
@@ -28,9 +28,9 @@ _Click image to view full size_
 
 ---
 
-## Business Analysis & System Translation
+## Business Analysis & Technical Translation
 
-Artifacts used to align business and technical teams, define requirements, and support solution design.
+While my focus is on change readiness and adoption, the following artifacts demonstrate how I translate business needs into structured, system-aligned solutions.
 
 ### Stakeholder Alignment & Process Scoping (SIPOC)
 
@@ -64,19 +64,21 @@ _Click image to view full size_
 
 ---
 
-## Insights & Continuous Improvement
+## Operational Insights & Continuous Improvement
 
 Artifacts used to analyze performance trends, identify operational gaps, and support data-driven decision-making.
 
 ### KPI Dashboard – Operational Insights
 
-### Operational Insights – IT Help Desk Ticket Analysis
-
-_Click image to view full size_
+*Click image to view full size*
 
 <a href="/assets/Screenshot%202026-02-15%20234259.png" target="_blank">
   <img src="/assets/Screenshot%202026-02-15%20234259.png" width="500">
 </a>
+
+### Operational Insights – IT Help Desk Ticket Analysis
+
+*Click image to view full size*
 
 <a href="/assets/Screenshot%202026-02-15%20234403.png" target="_blank">
   <img src="/assets/Screenshot%202026-02-15%20234403.png" width="500">
