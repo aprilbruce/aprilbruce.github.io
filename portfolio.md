@@ -52,7 +52,7 @@ Artifacts used to analyze performance trends, identify operational gaps, and sup
 
 ### Operational Insights – IT Help Desk Ticket Analysis
 
-<img src="assets/dashboard-1-v2.png.png" width="450">
+<img src="assets/Screenshot%202026-02-15%234529.png" width="450">
 
 <img src="assets/Screenshot%202026-02-15%20234403.png" width="450">
 
